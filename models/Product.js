@@ -24,7 +24,7 @@ Product.init(
       allowNull:false
     },
     stock: {
-      type:DataTypes.NUMBER,
+      type:DataTypes.INTEGER,
       allowNull:false
     },
     category_id: {
@@ -33,9 +33,9 @@ Product.init(
       references: {
         model:"category",
         key:"id"
+      },
+      
       }
-    }
-   //build product tag and tag
   },
   {
     sequelize,
