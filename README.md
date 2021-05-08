@@ -24,7 +24,7 @@ github: https: https://github.com/harrisfd/E-commercefdh
 http://somup.com/crhjhFFGXH
 
 
-<img src="./images/ORM-1.jpg" alt="JPG of the database"/>
+<img src="./Images/ORM-1.jpg" alt="JPG of the database"/>
 
 ## Roadmap
 Continue to update the database with new functionalities that will improve performance and help companies remain competitive.
